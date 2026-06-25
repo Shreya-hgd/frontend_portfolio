@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontend_portfolio/static/css/main.cfda35fc.css",
+    "main.js": "/frontend_portfolio/static/js/main.b3ebd1d8.js",
+    "index.html": "/frontend_portfolio/index.html",
+    "main.cfda35fc.css.map": "/frontend_portfolio/static/css/main.cfda35fc.css.map",
+    "main.b3ebd1d8.js.map": "/frontend_portfolio/static/js/main.b3ebd1d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfda35fc.css",
+    "static/js/main.b3ebd1d8.js"
+  ]
+}
