@@ -2,8 +2,8 @@ import React from 'react';
 
 const socialLinks = [
   { label: 'LinkedIn',   href: 'https://www.linkedin.com/in/shreya-hh/' },
-  { label: 'GitHub',     href: 'https://github.com/ShreyaHegd' },
-  { label: 'Résumé PDF', href: 'https://shreyahegd.github.io/portfolio/shreyu_resume.pdf' },
+  { label: 'GitHub',     href: 'https://github.com/Shreya-hgd' },
+  { label: 'Résumé PDF', href: '/frontend_portfolio/resume.pdf' },
 ];
 
 export default function Contact() {
